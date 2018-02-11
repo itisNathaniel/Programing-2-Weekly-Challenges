@@ -107,7 +107,7 @@ namespace ProjectOfPrime
             {
                 Console.Clear();
                 Console.BackgroundColor = ConsoleColor.Red;
-                Console.WriteLine("That didn't look like a number or an error ");
+                Console.WriteLine("You've done something bad. It was probably trying to break my code by sticking letters where a number should be);
             }
 
             Console.ReadKey();
