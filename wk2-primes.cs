@@ -1,6 +1,9 @@
 ﻿/*
  * This is a fun programme that tells you what primes 
  * the number entered is a product of.
+ *
+ * The Brief:
+ * Write a method that takes a positive integer and returns the unique primes
  */
 
 
@@ -107,7 +110,7 @@ namespace ProjectOfPrime
             {
                 Console.Clear();
                 Console.BackgroundColor = ConsoleColor.Red;
-                Console.WriteLine("You've done something bad. It was probably trying to break my code by sticking letters where a number should be);
+                Console.WriteLine("You've done something bad. It was probably trying to break my code by sticking letters where a number should be");
             }
 
             Console.ReadKey();
